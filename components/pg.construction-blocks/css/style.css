@@ -3372,6 +3372,7 @@
 .pg-construction-service1 .card .caption {
     margin-top: 20px;
     margin-bottom: 20px;
+    min-height: 250px;
 }
 
 .pg-construction-service1 .card .caption h4 {
@@ -4576,7 +4577,7 @@
 }
 
 .pg-construction-content7 .content > h2 {
-    color: #fdb415;
+    color: #f8e00e;
     margin: 0;
     padding-bottom: 15px;
 }
@@ -6857,7 +6858,8 @@
 /* title1 */
 .pg-construction-title1 {
     display: block;
-    background-color: #fff;
+
+    /* background-color: #fff */
     padding-top: 50px;
     padding-bottom: 50px;
 }
@@ -10920,7 +10922,7 @@ input[type="radio"][value="text"]:checked {
 }
 
 .pg-construction-blog1 button {
-    background: #2d2d2d;
+    background: #f7e128;
     margin: 0px 15px 0px 0px;
     padding: 12px 15px;
     font-weight: 700;
