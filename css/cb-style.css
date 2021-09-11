@@ -730,8 +730,8 @@
     padding-right: 9px;
 }
 
-.cb-navigation5 .top-bar .fa {
-    color: #fff;
+.cb-navigation5 .top-bar div.top .fa {
+    color: var(--info) !important;
     margin-right: 6px;
 }
 
